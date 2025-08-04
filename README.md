@@ -8,4 +8,4 @@ In this project Ive used a pre-defined script named 'start' to run index.js dire
 </br>
 The 'start' script is defined in package.json
 </br>
-<strong>Note:</strong>: The package type is set to module in package.json, so we use node modules as <stron>ESM</strong> <em>(EcmaScript Modules)</em>
+<strong>Note:</strong>: The package type is set to module in package.json, so we use node modules as <strong>ESM</strong> <em>(EcmaScript Modules)</em>
